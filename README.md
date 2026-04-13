@@ -44,6 +44,10 @@ This project was designed to help me practice:
 ## Dashboard Preview
 
 <img width="778" height="451" alt="Screenshot 2026-04-13 at 4 09 01 PM" src="https://github.com/user-attachments/assets/108b499c-1e28-4541-bd0a-99d233e8e93a" />
+<img width="1442" height="776" alt="Screenshot 2026-04-13 at 5 44 06 PM" src="https://github.com/user-attachments/assets/01d386f4-c026-4d0f-8a54-80f885dfc1a2" />
+<img width="1431" height="897" alt="Screenshot 2026-04-13 at 5 47 28 PM" src="https://github.com/user-attachments/assets/0d322b2a-7109-494d-9d80-f67883b34828" />
+
+
 
 
 ## What I Learned
