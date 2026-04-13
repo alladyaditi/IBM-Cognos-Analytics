@@ -33,8 +33,9 @@ This project was designed to help me practice:
 ## Repository Structure
 
 
-    A- Product Sales.pdf
+    A-Product Sales.pdf
     CustomerLoyaltyProgram.csv  
+    READ.ME
 
  
 
