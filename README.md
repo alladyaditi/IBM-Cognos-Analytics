@@ -34,6 +34,8 @@ This project was designed to help me practice:
 
 
     A-Product Sales.pdf
+    B-Customer.pdf
+    AdvancedDashboard.pdf 
     CustomerLoyaltyProgram.csv  
     READ.ME
 
