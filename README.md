@@ -32,16 +32,11 @@ This project was designed to help me practice:
 
 ## Repository Structure
 
-/dashboard
-    dashboard_screenshot.png
-    notes.md
 
-/data
-    CustomerLoyaltyProgram.csv  (if allowed to upload)
+    A- Product Sales.pdf
+    CustomerLoyaltyProgram.csv  
 
-/docs
-    project_overview.md
-    learning_log.md
+ 
 
 ## Dashboard Preview
 
